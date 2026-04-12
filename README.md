@@ -1,50 +1,49 @@
 # Assignment-to-execute-colabs-for-deep-learning-trianing-design-space-
 
-🚀 Colab Execution & Explanation Project
 
-This repository contains executed Google Colab notebooks along with detailed explanations of each code block. Each notebook has been run, documented, and explained through dedicated video walkthroughs.
+Deep Learning Training Design Space Exploration
+This repository contains a comprehensive exploration of Deep Learning training design spaces. Each project focuses on executing advanced neural network configurations, analyzing architectural trade-offs, and documenting the results through code execution and video walk-throughs.
 
-📌 Project Overview
-Executed multiple Google Colab notebooks
-Explained each notebook block-by-block
-Recorded video walkthroughs for better understanding
-Archived notebooks with outputs
-Organized everything for portfolio showcase
+🚀 Project Overview
+The goal of this assignment was to analyze four distinct Deep Learning Google Colab notebooks. For each notebook, I have:
 
+Executed the full training pipeline with stored outputs.
 
-🎥 Video Walkthroughs
+Archived the .ipynb files with global sharing permissions.
 
-Each video explains the corresponding Colab notebook step-by-step:
+Recorded a technical deep-dive video explaining the logic, code blocks, and resulting metrics.
 
-📹 Video 1 - Explanation
-📹 Video 2 - Explanation
-📹 Video 3 - Explanation
-📹 Video 4 - Explanation
-📓 Google Colab Notebooks
+📂 Deep Learning Modules
+Module	Google Colab Notebook	Video Walkthrough
+01: Model Architecture Analysis	Open Notebook 1	Watch on YouTube
+02: Optimization & Loss Functions	Open Notebook 2	Watch on YouTube
+03: Hyperparameter Tuning	Open Notebook 3	Watch on YouTube
+04: Design Space Evaluation	Open Notebook 4	Watch on YouTube
+🛠️ Execution & Methodology
+To ensure reproducibility and showcase the training design space, the following steps were performed for each module:
 
-Access the executed notebooks below:
+Environment Setup: Configured Google Colab environments with appropriate GPU acceleration (T4/A100).
 
-🔗 Colab Notebook 1
-🔗 Colab Notebook 2
-🔗 Colab Notebook 3
-🔗 Colab Notebook 4
-🧠 What I Learned
-Understanding code by breaking it down line-by-line
-Executing and debugging Colab notebooks
-Explaining technical concepts clearly
-Structuring projects for GitHub portfolios
-Creating educational video content
-📂 Repository Structure
-├── colab1.ipynb
-├── colab2.ipynb
-├── colab3.ipynb
-├── colab4.ipynb
-├── outputs/
-├── README.md
-🌍 Sharing & Accessibility
-All notebooks are executed with outputs included
-Videos are publicly accessible
-Colabs are shared with proper permissions
-⭐ Notes
+Code Execution: Ran every code block sequentially, ensuring all outputs, logs, and visualizations (loss curves, accuracy plots) are preserved in the archived notebooks.
 
-This project is part of my learning journey to better understand and explain real-world code workflows using Google Colab.
+Code Analysis: Performed a line-by-line review of the implementation, focusing on the impact of specific architectural decisions on model performance.
+
+Portfolio Integration: Organized all assets within this repository to demonstrate a clean, professional engineering workflow.
+
+📹 Video Explanations
+In each linked video, I cover:
+
+Logical Flow: The high-level purpose of the notebook.
+
+Code Deep-Dive: Explanation of key functions, classes, and library usage.
+
+Output Interpretation: Analysis of the training results and what the data tells us about the design space.
+
+💻 Tech Stack
+Language: Python
+
+Environment: Google Colab / Jupyter
+
+Libraries: PyTorch / TensorFlow / Keras (as applicable)
+
+Version Control: Git/GitHub
