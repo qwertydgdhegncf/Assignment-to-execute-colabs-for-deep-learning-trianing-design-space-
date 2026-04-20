@@ -29,7 +29,7 @@ Colab NotebookVideo LinkNotebook
 2  https://www.youtube.com/watch?v=Hg2KZLBkoGs
 3  https://youtu.be/L7lFOw7N5MU 
 4  https://youtu.be/g0WOLB7jtp8
-5  https://your-video-link-5Notebook
+5  https://youtu.be/wAJedfa19kU
 6  https://your-video-link-6
 
 📓 Google Colab Notebooks
