@@ -30,7 +30,7 @@ Colab NotebookVideo LinkNotebook
 3  https://youtu.be/L7lFOw7N5MU 
 4  https://youtu.be/g0WOLB7jtp8
 5  https://youtu.be/wAJedfa19kU
-6  https://your-video-link-6
+6  https://youtu.be/1deVad8NaM4
 
 📓 Google Colab Notebooks
 NotebookColab LinkColab 
