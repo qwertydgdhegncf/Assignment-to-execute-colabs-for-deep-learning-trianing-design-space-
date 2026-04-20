@@ -34,7 +34,7 @@ Colab NotebookVideo LinkNotebook
 
 📓 Google Colab Notebooks
 NotebookColab LinkColab 
-1 https://drive.google.com/file/d/1c4_zAXOO5QWShbmt88O59O7q2JrV8_ko/view?usp=sharing
+1 https://colab.research.google.com/drive/1h9NEU9_Z1ysOKGfJ9SqxgeSwl-oBZGRn?usp=sharing
 2 https://your-colab-link-2Colab
 3 https://your-colab-link-3Colab 
 4 https://your-colab-link-4Colab 
