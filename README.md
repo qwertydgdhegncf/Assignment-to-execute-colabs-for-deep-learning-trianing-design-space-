@@ -24,20 +24,22 @@ The goal of this project is to demonstrate not just execution, but deep understa
 
 
 🎥 Video Walkthroughs
-Colab NotebookVideo LinkNotebook 1https://your-video-link-1Notebook 
-2https://your-video-link-2Notebook 
-3https://your-video-link-3Notebook 
-4https://your-video-link-4Notebook 
-5https://your-video-link-5Notebook
-6https://your-video-link-6
+Colab NotebookVideo LinkNotebook
+1  https://your-video-link-1Notebook 
+2  https://your-video-link-2Notebook 
+3  https://your-video-link-3Notebook 
+4  https://your-video-link-4Notebook 
+5  https://your-video-link-5Notebook
+6  https://your-video-link-6
 
 📓 Google Colab Notebooks
-NotebookColab LinkColab 1https://your-colab-link-1Colab 
-2https://your-colab-link-2Colab
-3https://your-colab-link-3Colab 
-4https://your-colab-link-4Colab 
-5https://your-colab-link-5Colab 
-6https://your-colab-link-6
+NotebookColab LinkColab 
+1 https://your-colab-link-1Colab 
+2 https://your-colab-link-2Colab
+3 https://your-colab-link-3Colab 
+4 https://your-colab-link-4Colab 
+5 https://your-colab-link-5Colab 
+6 https://your-colab-link-6
 
 🧠 Key Learnings
 
