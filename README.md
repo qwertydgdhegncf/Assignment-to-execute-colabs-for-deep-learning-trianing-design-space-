@@ -36,7 +36,7 @@ Colab NotebookVideo LinkNotebook
 NotebookColab LinkColab 
 1 https://colab.research.google.com/drive/1h9NEU9_Z1ysOKGfJ9SqxgeSwl-oBZGRn?usp=sharing
 2 https://colab.research.google.com/drive/1apNBSHLOCSOdyrF2ur5F1P5NZ73UMJg_?usp=sharing
-3 https://your-colab-link-3Colab 
+3 https://colab.research.google.com/drive/1fax7w-78fZuQool9KSqyuS7ikFcgrmGg?usp=sharing
 4 https://your-colab-link-4Colab 
 5 https://your-colab-link-5Colab 
 6 https://your-colab-link-6
