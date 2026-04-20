@@ -26,7 +26,7 @@ The goal of this project is to demonstrate not just execution, but deep understa
 🎥 Video Walkthroughs
 Colab NotebookVideo LinkNotebook
 1  https://youtu.be/lLSlRj51ZNE
-2  https://your-video-link-2Notebook 
+2  https://www.youtube.com/watch?v=Hg2KZLBkoGs
 3  https://your-video-link-3Notebook 
 4  https://your-video-link-4Notebook 
 5  https://your-video-link-5Notebook
